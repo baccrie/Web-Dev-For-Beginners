@@ -58,3 +58,20 @@ Lakoko ti a ti yago fun ifitonileti awọn ilana JavaScript lati le ṣojumọ l
 (https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs?WT.mc_id=academic-13441-cxa)".
 > Wa [koodu ti ihuwasi](CODE_OF_CONDUCT.md),
 [Idasi](CONTRIBUTING.md), ati [Itumọ] awọn itọnisọna. A o feeran esi re ti o daara.
+
+## Ẹkọ kọọkan pẹlu:
+
+- iyan sketchnote
+- fidio afikun iyan
+- ami-ẹkọ warmup adanwo
+- kọ ẹkọ
+- fun awọn ẹkọ ti o da lori iṣẹ akanṣe, awọn itọsọna igbese-nipasẹ-igbesẹ lori bi a ṣe le kọ iṣẹ naa
+- imọ sọwedowo
+- a ipenija
+- afikun kika
+- iṣẹ iyansilẹ
+- ranse si-eko adanwo
+
+> ** Akọsilẹ kan nipa awọn ibeere ***: Gbogbo awọn ibeere ni o wa ninu [ninu ohun elo yii](https://happy-mud-02d95f10f.azurestaticapps.net/), fun 48 lapapọ adanwo ti mẹta ibeere kọọkan. Wọn ti sopọ mọ laarin awọn ẹkọ ṣugbọn ohun elo ibeere le ṣee ṣiṣẹ ni agbegbe; tẹle ilana naa ninu folda `quiz-app`. Wọn ti wa ni agbegbe diẹdiẹ.
+
+## Awọn ẹkọ
